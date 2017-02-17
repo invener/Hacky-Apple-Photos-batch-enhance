@@ -2,6 +2,7 @@
 This is a method of automating the clicking and pressing of the right arrow key to enhance multiple photos in the Mac Photos app.
 
 To use:
+
 1. Open the Photos app
 
 2. Create an album of all the photos you want to enhance

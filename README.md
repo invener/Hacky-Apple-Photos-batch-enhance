@@ -1,5 +1,5 @@
 # Hacky-Apple-Photos-batch-enhance
-This is a method of automating the clicking and pressing of the right arrow key to enhance multiple photos in the Mac Photos app.
+This is a slightly ridiculous method of batch enhancing photos in the Mac Photos. This script simulates clicking the "Enhance" button and pressing the right arrow key to cycle through photos.
 
 To use:
 

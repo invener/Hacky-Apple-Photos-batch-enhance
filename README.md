@@ -13,8 +13,8 @@ To use:
 
 ![Alt text](https://github.com/invener/Hacky-Apple-Photos-batch-enhance/blob/master/finding%20coordinates.gif?raw=true)
 
-5. Replace the standard xPosition and yPosition values with these x and y coordinates 
+5. Replace the standard `xPosition` and `yPosition` values with these x and y coordinates 
 
-6. Replace the standard numberOfPhotos with the number of photos to batch enhance
+6. Replace the standard `numberOfPhotos` with the number of photos to batch enhance
 
 7. Press play and watch the magic happen

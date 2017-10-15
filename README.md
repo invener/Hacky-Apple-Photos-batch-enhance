@@ -1,3 +1,5 @@
+# NOTE: This is fairly useless now that Apple has added batch photo enhance support to Photos.app.
+
 # Hacky-Apple-Photos-batch-enhance
 This is a slightly ridiculous method of batch enhancing photos in the Mac Photos. This script simulates clicking the "Enhance" button and pressing the right arrow key to cycle through photos.
 

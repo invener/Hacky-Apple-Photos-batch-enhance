@@ -1,4 +1,4 @@
-# NOTE: This is fairly useless now that Apple has added batch photo enhance support to Photos.app.
+# NOTE: Apple has added support for batch Auto Enhance to Photos.app in macOS High Sierra. Just select the photos you want to enhance and press ⌘E.
 
 # Hacky-Apple-Photos-batch-enhance
 This is a slightly ridiculous method of batch enhancing photos in the Mac Photos. This script simulates clicking the "Enhance" button and pressing the right arrow key to cycle through photos.
